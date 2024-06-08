@@ -11,7 +11,7 @@ ebook:
 
 ![](./img/Kiki2.png)
 
-* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+[Wie Kiki auf die Welt kam](#wie-kiki-auf-die-welt-kam)
 
 ## Wie Kiki auf die Welt kam
 
