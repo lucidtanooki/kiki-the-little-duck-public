@@ -12,6 +12,9 @@ ebook:
 ![](./img/Kiki2.png)
 
 [Wie Kiki auf die Welt kam](#wie-kiki-auf-die-welt-kam)
+[Wie Kiki dem kleinen Krebs half sein Haus wiederzufinden](#wie-kiki-dem-kleinen-krebs-half-sein-haus-wiederzufinden)
+[Die Stadt der Mäuse](#die-stadt-der-mäuse)
+[Wie Kiki den Ameisen half](#wie-kiki-den-ameisen-half)
 
 ## Wie Kiki auf die Welt kam
 
