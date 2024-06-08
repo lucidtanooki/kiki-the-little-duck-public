@@ -4,4 +4,4 @@
 
 A book for small children in german.
 
-[READ IT](./Kiki die kleine Ente.md)
+[READ IT](Kiki die kleine Ente.md)
