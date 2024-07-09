@@ -13,6 +13,7 @@ ebook:
 
 + [Wie Kiki auf die Welt kam](#wie-kiki-auf-die-welt-kam)
 + [Wie Kiki dem kleinen Krebs half sein Haus wiederzufinden](#wie-kiki-dem-kleinen-krebs-half-sein-haus-wiederzufinden)
++ [Der weiße Flamingo](#der-weiße-flamingo)
 + [Die Stadt der Mäuse](#die-stadt-der-mäuse)
 + [Wie Kiki den Ameisen half](#wie-kiki-den-ameisen-half)
 
